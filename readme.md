@@ -1,6 +1,6 @@
 # O que aprender para trabalhar com desenvolvimento web?
 
-[Nesse vídeo]() iremos ver as 3 principais carreiras focadas no desenvolvimento web e quais são os principais caminhos para conseguir trabalhar com isso
+[Nesse vídeo](https://youtu.be/01bCZPpSQxY) iremos ver as 3 principais carreiras focadas no desenvolvimento web e quais são os principais caminhos para conseguir trabalhar com isso
 
 # Roadmaps
 
